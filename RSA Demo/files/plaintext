@@ -1,0 +1,3 @@
+I've been working on a python application, where the client sends a clock signal to the server and the server responds with an audio signal.
+I have two buttons, one to start the clock and one to pause the track.
+Main Class
